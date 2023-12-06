@@ -1,1 +1,1 @@
-# impulse
+# News aggregator
