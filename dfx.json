@@ -1,0 +1,14 @@
+{
+  "canisters": {
+    "impulse": {
+      "main": "src/main.mo",
+      "type": "motoko"
+    }
+  },
+  "defaults": {
+    "build": {
+      "packtool": "mops sources"
+    }
+  },
+  "dfx": "0.15.1"
+}
