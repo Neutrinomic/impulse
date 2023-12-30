@@ -1,8 +1,10 @@
 {
   "canisters": {
     "impulse": {
-      "main": "src/main.mo",
-      "type": "motoko"
+      "build": "./build.sh",
+      "candid": "build/main.did",
+      "type": "custom",
+      "wasm": "build/main.wasm"
     }
   },
   "defaults": {
