@@ -1,5 +1,5 @@
 
-Set temporary operator of the news section - impulse.
+Set temporary operator of icpcoins.com news section - impulse.
 
 ## Verify build
 
